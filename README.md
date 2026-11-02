@@ -5,7 +5,7 @@
   </a>
 </p>
 
-<h1 align="center">Hi, I'm MRWH1TE117 👋</h1>
+<h1 align="center">Hi, I'm DEVC0MP 👋</h1>
 
 <p align="center">
   <b>💻 IT Specialist</b> • <b>🧑‍💻 Frontend Developer</b> • <b>🛠️ Independent Software Maker</b><br/>
@@ -14,11 +14,11 @@
 
 <p align="center">
   <a href="https://develith.com"><img alt="Develith website" src="https://img.shields.io/badge/Develith-Visit_website-6ce5d8?style=for-the-badge&logoColor=081018"></a>
-  <a href="https://github.com/MRWH1TE117?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/GitHub-Open_repositories-111a26?style=for-the-badge&logo=github"></a>
+  <a href="https://github.com/DEVC0MP?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/GitHub-Open_repositories-111a26?style=for-the-badge&logo=github"></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MRWH1TE117&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=DEVC0MP&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   <img alt="Windows 10 and 11" src="https://img.shields.io/badge/Windows-10/11-0078D4?style=flat-square&logo=windows">
   <img alt="Ubuntu and Debian" src="https://img.shields.io/badge/Ubuntu-Debian-FFCC00?style=flat-square">
 </p>
@@ -49,7 +49,7 @@ A bilingual, local-first wedding planner with a top-down 2D venue editor, exact 
 `TypeScript` · `React` · `Konva` · `IndexedDB`
 
 [![Open application](https://img.shields.io/badge/Open-Application-e6b64b?style=for-the-badge)](https://wedding.develith.com)
-[![Open repository](https://img.shields.io/badge/GitHub-Repository-111a26?style=for-the-badge&logo=github)](https://github.com/MRWH1TE117/wedding-seating-planner)
+[![Open repository](https://img.shields.io/badge/GitHub-Repository-111a26?style=for-the-badge&logo=github)](https://github.com/DEVC0MP/wedding-seating-planner)
 
 #### 🎯 LifeQuest
 
@@ -58,7 +58,7 @@ A local-first personal development dashboard with goals, weekly planning, eviden
 `TypeScript` · `React` · `Vitest` · `IndexedDB`
 
 [![Open application](https://img.shields.io/badge/Open-Application-6ce5d8?style=for-the-badge)](https://lifequest.develith.com)
-[![Open repository](https://img.shields.io/badge/GitHub-Repository-111a26?style=for-the-badge&logo=github)](https://github.com/MRWH1TE117/lifequest)
+[![Open repository](https://img.shields.io/badge/GitHub-Repository-111a26?style=for-the-badge&logo=github)](https://github.com/DEVC0MP/lifequest)
 
 Some larger personal tools and experiments remain private while they are being developed.
 
