@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
   <title id="title">Develith</title>
-  <desc id="desc">MRWH1TE117 personal software brand. Practical software, thoughtfully built.</desc>
+  <desc id="desc">DEVC0MP personal software brand. Practical software, thoughtfully built.</desc>
   <defs>
     <linearGradient id="background" x1="80" y1="20" x2="1190" y2="340" gradientUnits="userSpaceOnUse">
       <stop stop-color="#142431"/>
@@ -45,7 +45,7 @@
   </g>
 
   <text x="192" y="192" fill="#f2f5f7" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="600" letter-spacing="0.4">Practical software. <tspan fill="url(#accent)">Thoughtfully built.</tspan></text>
-  <text x="192" y="230" fill="#8f9cab" font-family="Segoe UI, Arial, sans-serif" font-size="18" letter-spacing="0.25">The personal software brand of MRWH1TE117</text>
+  <text x="192" y="230" fill="#8f9cab" font-family="Segoe UI, Arial, sans-serif" font-size="18" letter-spacing="0.25">The personal software brand of DEVC0MP</text>
 
   <g transform="translate(192 270)">
     <rect width="235" height="48" rx="24" fill="#6ce5d8"/>
