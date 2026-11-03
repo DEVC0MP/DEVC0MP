@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">Develith</title>
+  <desc id="desc">DEVC0MP personal software brand. Practical software, thoughtfully built.</desc>
+  <defs>
+    <linearGradient id="background" x1="80" y1="20" x2="1190" y2="340" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#eef7f6"/>
+      <stop offset="0.48" stop-color="#f7f9fb"/>
+      <stop offset="1" stop-color="#fbf8f1"/>
+    </linearGradient>
+    <radialGradient id="mintGlow" cx="0" cy="0" r="1" gradientTransform="translate(188 58) rotate(35) scale(510 265)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0f9488" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#0f9488" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="goldGlow" cx="0" cy="0" r="1" gradientTransform="translate(1160 324) rotate(-145) scale(400 220)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#b8860b" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#b8860b" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#0f9488"/>
+      <stop offset="0.64" stop-color="#14a396"/>
+      <stop offset="1" stop-color="#b8860b"/>
+    </linearGradient>
+    <pattern id="grid" width="56" height="56" patternUnits="userSpaceOnUse">
+      <path d="M56 0H0V56" fill="none" stroke="#0d1520" stroke-opacity="0.04"/>
+    </pattern>
+  </defs>
+
+  <rect width="1280" height="360" rx="28" fill="url(#background)"/>
+  <rect width="1280" height="360" rx="28" fill="url(#mintGlow)"/>
+  <rect width="1280" height="360" rx="28" fill="url(#goldGlow)"/>
+  <rect x="1" y="1" width="1278" height="358" rx="27" fill="url(#grid)" stroke="#0f9488" stroke-opacity="0.25" stroke-width="2"/>
+
+  <g transform="translate(72 66)">
+    <rect width="88" height="88" rx="23" fill="#ffffff" stroke="#0f9488" stroke-opacity="0.45"/>
+    <g transform="translate(11 11) scale(1.03)" fill="none" stroke-linecap="square" stroke-width="4.5">
+      <path d="M13 17h12c13 0 20 5.5 20 15s-7 15-20 15H13" stroke="#0f9488"/>
+      <path d="M32 21h18M32 32h15M32 43h18" stroke="#b8860b"/>
+    </g>
+  </g>
+
+  <g transform="translate(190 62) scale(1.12)" fill="none" stroke-linecap="square" stroke-linejoin="miter" stroke-width="7">
+    <path d="M16 18h38c22 0 34 10 34 27S76 72 54 72H16" stroke="#0f9488"/>
+    <path d="M111 18h67M111 45h61M111 72h67" stroke="#0f9488"/>
+    <path d="M199 18l31 54 31-54M283 18h67M283 45h61M283 72h67M373 18v54h58M455 18v54M481 18h76M519 18v54M580 18v54M580 45h54M634 18v54" stroke="#0d1520"/>
+  </g>
+
+  <text x="192" y="192" fill="#0d1520" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="600" letter-spacing="0.4">Practical software. <tspan fill="url(#accent)">Thoughtfully built.</tspan></text>
+  <text x="192" y="230" fill="#57606a" font-family="Segoe UI, Arial, sans-serif" font-size="18" letter-spacing="0.25">The personal software brand of DEVC0MP</text>
+
+  <g transform="translate(192 270)">
+    <rect width="235" height="48" rx="24" fill="#0f9488"/>
+    <text x="24" y="31" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" letter-spacing="0.4">DEVELITH.COM  ↗</text>
+  </g>
+
+  <g transform="translate(1006 188)">
+    <path d="M0 0h172" stroke="#0d1520" stroke-opacity="0.15"/>
+    <text y="35" fill="#0f9488" font-family="Consolas, monospace" font-size="14" letter-spacing="2">01  DESIGN</text>
+    <text y="72" fill="#0d1520" font-family="Consolas, monospace" font-size="14" letter-spacing="2">02  BUILD</text>
+    <text y="109" fill="#b8860b" font-family="Consolas, monospace" font-size="14" letter-spacing="2">03  REFINE</text>
+  </g>
+</svg>

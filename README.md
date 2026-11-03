@@ -1,7 +1,11 @@
 <!-- Profil README -->
 <p align="center">
   <a href="https://develith.com">
-    <img src="./assets/develith-profile-banner.svg" alt="Develith — Practical software, thoughtfully built" width="100%" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/develith-profile-banner.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./assets/develith-profile-banner-light.svg" />
+      <img src="./assets/develith-profile-banner.svg" alt="Develith — Practical software, thoughtfully built" width="100%" />
+    </picture>
   </a>
 </p>
 
@@ -31,8 +35,9 @@ The website presents current applications in English and Polish, with production
 ### 🔧 Tech stack
 
 | Frontend | Backend · Scripts | Infra · DevOps · IT |
-| --- | --- | --- |
-| TypeScript · JavaScript · React · Angular · HTML/CSS | Node.js · MySQL · Python · PowerShell · Bash · Lua | GitHub Actions · Docker · Cloudflare · Proxmox · VMware vSphere · Windows Server · Active Directory · Veeam · Ubuntu/Debian |
+| :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=ts,js,react,angular,html,css&perline=3" alt="TypeScript, JavaScript, React, Angular, HTML, CSS" /> | <img src="https://skillicons.dev/icons?i=nodejs,mysql,python,powershell,bash,lua&perline=3" alt="Node.js, MySQL, Python, PowerShell, Bash, Lua" /> | <img src="https://skillicons.dev/icons?i=githubactions,docker,cloudflare,windows,ubuntu,debian&perline=3" alt="GitHub Actions, Docker, Cloudflare, Windows, Ubuntu, Debian" /> |
+| TypeScript · JavaScript · React · Angular · HTML/CSS | Node.js · MySQL · Python · PowerShell · Bash · Lua | + Proxmox · VMware vSphere · Windows Server · Active Directory · Veeam |
 
 ### 🚀 Featured Develith applications
 
@@ -71,3 +76,11 @@ Some larger personal tools and experiments remain private while they are being d
 The best way to reach me is an **Issue** in the relevant repository — bug reports with steps to reproduce and logs are especially welcome, and so are pull requests.
 
 ---
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DEVC0MP/DEVC0MP/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DEVC0MP/DEVC0MP/output/github-snake.svg" />
+    <img alt="Contribution graph animation" src="https://raw.githubusercontent.com/DEVC0MP/DEVC0MP/output/github-snake.svg" width="100%" />
+  </picture>
+</p>
