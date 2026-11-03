@@ -30,9 +30,9 @@ The website presents current applications in English and Polish, with production
 
 ### 🔧 Tech stack
 
-| Frontend | Backend · Mobile · Scripts | Infra · DevOps · IT |
+| Frontend | Backend · Scripts | Infra · DevOps · IT |
 | --- | --- | --- |
-| TypeScript · JavaScript · React · Angular · Astro · HTML/CSS | Node.js · Express · MySQL · Kotlin (Jetpack Compose) · Python · PowerShell · Bash · Lua | GitHub Actions · Docker · Cloudflare · Proxmox · VMware vSphere · Windows Server · Active Directory · Veeam · Ubuntu/Debian |
+| TypeScript · JavaScript · React · Angular · Astro · HTML/CSS | Node.js · Python · PowerShell · Bash · Lua | GitHub Actions · Docker · Cloudflare · Proxmox · VMware vSphere · Windows Server · Active Directory · Veeam · Ubuntu/Debian |
 
 ### 🚀 Featured Develith applications
 
