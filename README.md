@@ -34,11 +34,15 @@ The website presents current applications in English and Polish, with production
 
 ### 🔧 Tech stack
 
+<div align="center">
+
 | Frontend | Backend · Scripts | Infra · DevOps · IT |
 | :---: | :---: | :---: |
 | <img src="https://skillicons.dev/icons?i=ts,js,react,angular,html,css&perline=3" alt="TypeScript, JavaScript, React, Angular, HTML, CSS" /> | <img src="https://skillicons.dev/icons?i=nodejs,mysql,python,powershell,bash,lua&perline=3" alt="Node.js, MySQL, Python, PowerShell, Bash, Lua" /> | <img src="https://skillicons.dev/icons?i=githubactions,docker,cloudflare,windows,ubuntu,debian&perline=3" alt="GitHub Actions, Docker, Cloudflare, Windows, Ubuntu, Debian" /> |
 
-<p align="center"><sub>Also working with <b>Proxmox</b> · <b>VMware vSphere</b> · <b>Windows Server &amp; Active Directory</b> · <b>Veeam</b></sub></p>
+<sub>Also working with <b>Proxmox</b> · <b>VMware vSphere</b> · <b>Windows Server &amp; Active Directory</b> · <b>Veeam</b></sub>
+
+</div>
 
 ### 🚀 Featured Develith applications
 
