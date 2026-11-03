@@ -13,21 +13,15 @@
 </p>
 
 <p align="center">
-  <a href="https://develith.com"><img alt="Develith website" src="https://img.shields.io/badge/Develith-Visit_website-6ce5d8?style=for-the-badge&logoColor=081018"></a>
   <a href="https://github.com/DEVC0MP?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/GitHub-Open_repositories-111a26?style=for-the-badge&logo=github"></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DEVC0MP&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <img alt="Windows 10 and 11" src="https://img.shields.io/badge/Windows-10/11-0078D4?style=flat-square&logo=windows">
-  <img alt="Ubuntu and Debian" src="https://img.shields.io/badge/Ubuntu-Debian-FFCC00?style=flat-square">
+  <img src="https://komarev.com/ghpvc/?username=DEVC0MP&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
 </p>
 
 ---
 
 ### ✦ Develith — my personal software brand
 
-[Develith](https://develith.com) is the home for my focused, privacy-respecting applications. It brings together product thinking, frontend engineering and infrastructure experience under one visual identity and one quality bar: **practical software, thoughtfully built**.
+**Develith** is the home for my focused, privacy-respecting applications. It brings together product thinking, frontend engineering and infrastructure experience under one visual identity and one quality bar: **practical software, thoughtfully built**.
 
 The website presents current applications in English and Polish, with production releases available directly under the Develith domain.
 
@@ -36,9 +30,9 @@ The website presents current applications in English and Polish, with production
 
 ### 🔧 Tech stack
 
-| Frontend                                             | Backend/Scripts         | Infra/IT                                     |
-| ---------------------------------------------------- | ----------------------- | -------------------------------------------- |
-| TypeScript · JavaScript · Angular · React · HTML/CSS | PowerShell · Bash · Lua | VMware vSphere · Windows Server · AD · Veeam |
+| Frontend | Backend · Mobile · Scripts | Infra · DevOps · IT |
+| --- | --- | --- |
+| TypeScript · JavaScript · React · Angular · Astro · HTML/CSS | Node.js · Express · MySQL · Kotlin (Jetpack Compose) · Python · PowerShell · Bash · Lua | GitHub Actions · Docker · Cloudflare · Proxmox · VMware vSphere · Windows Server · Active Directory · Veeam · Ubuntu/Debian |
 
 ### 🚀 Featured Develith applications
 
@@ -46,17 +40,19 @@ The website presents current applications in English and Polish, with production
 
 A bilingual, local-first wedding planner with a top-down 2D venue editor, exact chair assignments, spreadsheet import, local backups and print-ready PDF boards.
 
-`TypeScript` · `React` · `Konva` · `IndexedDB`
+`TypeScript` · `React` · `Konva` · `IndexedDB` · `PWA`
 
+[![Latest version](https://img.shields.io/github/v/tag/DEVC0MP/wedding-seating-planner?sort=semver&style=for-the-badge&label=version&color=e6b64b)](https://github.com/DEVC0MP/wedding-seating-planner/tags)
 [![Open application](https://img.shields.io/badge/Open-Application-e6b64b?style=for-the-badge)](https://wedding.develith.com)
 [![Open repository](https://img.shields.io/badge/GitHub-Repository-111a26?style=for-the-badge&logo=github)](https://github.com/DEVC0MP/wedding-seating-planner)
 
 #### 🎯 LifeQuest
 
-A local-first personal development dashboard with goals, weekly planning, evidence-informed habits, daily micro-tasks, progress reports and safety-focused JSON backups.
+A local-first personal development dashboard with goals, weekly planning, evidence-informed habits, daily micro-tasks, progress reports and safety-focused JSON backups. Installable as an app and works offline after the first launch — no account, no backend.
 
-`TypeScript` · `React` · `Vitest` · `IndexedDB`
+`TypeScript` · `React` · `Vitest` · `PWA`
 
+[![Latest version](https://img.shields.io/github/v/tag/DEVC0MP/lifequest?sort=semver&style=for-the-badge&label=version&color=6ce5d8)](https://github.com/DEVC0MP/lifequest/tags)
 [![Open application](https://img.shields.io/badge/Open-Application-6ce5d8?style=for-the-badge)](https://lifequest.develith.com)
 [![Open repository](https://img.shields.io/badge/GitHub-Repository-111a26?style=for-the-badge&logo=github)](https://github.com/DEVC0MP/lifequest)
 
@@ -72,6 +68,6 @@ Some larger personal tools and experiments remain private while they are being d
 
 ### 🤝 Contact / cooperation
 
-I prefer Issues / Discussions on repositories. I will gladly accept PRs and bug reports with logs.
+The best way to reach me is an **Issue** in the relevant repository — bug reports with steps to reproduce and logs are especially welcome, and so are pull requests.
 
 ---
