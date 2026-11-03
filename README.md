@@ -32,7 +32,7 @@ The website presents current applications in English and Polish, with production
 
 | Frontend | Backend · Scripts | Infra · DevOps · IT |
 | --- | --- | --- |
-| TypeScript · JavaScript · React · Angular · Astro · HTML/CSS | Node.js · Python · PowerShell · Bash · Lua | GitHub Actions · Docker · Cloudflare · Proxmox · VMware vSphere · Windows Server · Active Directory · Veeam · Ubuntu/Debian |
+| TypeScript · JavaScript · React · Angular · HTML/CSS | Node.js · MySQL · Python · PowerShell · Bash · Lua | GitHub Actions · Docker · Cloudflare · Proxmox · VMware vSphere · Windows Server · Active Directory · Veeam · Ubuntu/Debian |
 
 ### 🚀 Featured Develith applications
 
